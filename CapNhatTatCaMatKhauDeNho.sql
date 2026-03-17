@@ -8,6 +8,7 @@ BEGIN TRAN;
 
 BEGIN TRY
     -- 1) Xem trước mật khẩu mới
+    -- 
     SELECT
         MaTaiKhoan,
         TenDangNhap,
