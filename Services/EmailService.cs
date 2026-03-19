@@ -18,8 +18,8 @@ namespace ThuVien.Services
             // Cấu hình Gmail SMTP
             _smtpHost = "smtp.gmail.com";
             _smtpPort = 587;
-            _senderEmail = "your-email@gmail.com"; // Thay bằng email của bạn
-            _senderPassword = "your-app-password"; // Mật khẩu ứng dụng Gmail
+            _senderEmail = "ngoctienvx27@gmail.com"; // Thay bằng email của bạn
+            _senderPassword = "jdloejbtaocuhzmw"; // Mật khẩu ứng dụng Gmail
             _senderName = "Thư Viện";
         }
 
