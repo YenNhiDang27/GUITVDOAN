@@ -13,7 +13,7 @@ namespace ThuVien.Utilies
     {
         // Cấu hình email mặc định - BẠN CẦN THAY ĐỔI EMAIL VÀ MẬT KHẨU CỦA MÌNH
         private const string EMAIL_GUI = "ngoctienvx27@gmail.com";  // ← Email Gmail của bạn
-        private const string MAT_KHAU_UNG_DUNG = "jsfnylzxlmvawwhx"; // ← App Password (16 ký tự, có thể có khoảng trắng)
+        private const string MAT_KHAU_UNG_DUNG = "jdloejbtaocuhzmw"; // ← App Password (16 ký tự, có thể có khoảng trắng)
         private const string SMTP_SERVER = "smtp.gmail.com";
         private const int SMTP_PORT = 587;
 
